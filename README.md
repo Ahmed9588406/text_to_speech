@@ -30,7 +30,7 @@ This application relies heavily on the stability of the Hugging Face Inference A
    ```
 2. Navigate to the project directory:
    ```sh
-   cd app
+   cd text_to_speech
    ```
 3. Install dependencies:
    ```sh
