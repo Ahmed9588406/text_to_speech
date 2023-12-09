@@ -26,11 +26,11 @@ This application relies heavily on the stability of the Hugging Face Inference A
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sambowenhughes/your-nextjs-project.git
+   git clone https://github.com/Ahmed9588406/text_to_speech.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-nextjs-project
+   cd app
    ```
 3. Install dependencies:
    ```sh
@@ -65,18 +65,3 @@ This application relies heavily on the stability of the Hugging Face Inference A
 3. Enter the desired text in the "Text" input field.
 4. Click the "Submit" button.
 5. The generated audio will appear in an audio player below.
-
-## Contributing
-
-Contributions are welcome! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Implement your changes and test them thoroughly.
-4. Commit your changes and push to your forked repository.
-5. Open a pull request to the main repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
